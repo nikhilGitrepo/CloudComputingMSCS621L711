@@ -1,0 +1,30 @@
+http://www.wired.com/2012/06/sir-tim-berners-lee
+http://www.wired.com/2012/04/epicenter-isoc-famers-qa-cerf/all/1
+http://www.wired.com/2012/05/steve-crocker/all/1
+-------------------------
+
+“I just had to take the hypertext idea and connect it to the TCP and DNS ideas and — ta-da! — the World Wide Web,”
+
+Two years ago, in an interview with The Times of London, Berners-Lee said that in hindsight, he could have left out the two slashes at the beginning of a web address and saved the world “so much hassle."
+
+HTTP was designed to look like NNTP, or Network News Transfer Protocol, which was used for internet newsgroups
+
+The hypertext markup language (HTML) that defines webpages was meant to look like an existing markup language — a particular type of SGML, Standard Generalized Markup Language — used at CERN.
+
+“The double slashes were there because, on some computer systems, that was already used to mean: ‘We’re going outside the computer now.’ The single slash was for the local file system. The double slash was for the outside.”
+---
+ICANN, the organization which operates the domain naming system.
+
+Vinton Cerf - author TCP/IP protocol 
+
+The Online System at SRI - one-computer world wide web
+It had documents that pointed to each other using hyperlinks.
+
+the system would grow organically because it didn’t have any central control,if we just specify what the protocols would look like and what software you needed to write, anybody who wanted to build a piece of internet would do that and find somebody who would be willing to connect to them.
+ 
+By 1988 Hardware makers are selling routers to universities so they can build up their campus networks. 
+
+We had to be very ginger about what we specified and leave others to build on top of it.
+tried to focus on an architecture that had very thin layers that you could build on top of — or go around
+
+ 
